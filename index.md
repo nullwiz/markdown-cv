@@ -92,19 +92,19 @@ Since I was very young I did many of Capture the Flag (hacking) wargames. Curren
 
 ## Education
 
-`2010-2012`
-__Bachiller Colegio Nacional Buenos Aires (CNBA – UBA)__
-`2012-2015`
-__Bachiller ENS en Lenguas Vivas "Sofía EB de Spangenberg", Buenos Aires.__
-`2015 - now`
-__Student of Electronic Eng.  at  Universidad de Buenos Aires__
+`2010-2012`<br/>
+__Bachiller Colegio Nacional Buenos Aires (CNBA – UBA)__<br/>
+`2012-2015`<br/>
+__Bachiller ENS en Lenguas Vivas "Sofía EB de Spangenberg", Buenos Aires.__<br/>
+`2015 - now`<br/>
+__Student of Electronic Eng.  at  Universidad de Buenos Aires__<br/>
 
 
 
 ## Languages
-__English : Excellent both written and spoken.__
-__Spanish : Native__
-__French  : Medium, four years of study__
+__English : Excellent both written and spoken.__<br/>
+__Spanish : Native__<br/>
+__French  : Medium, four years of study__<br/>
 
 ## Command Line tools
 There are many, but I can name a few: 
