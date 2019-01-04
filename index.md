@@ -27,11 +27,10 @@ __Freelance programmer / Python scripting for automation__
 - Did many automations jobs using the Guru platform.
  
 `2016 - 2017`
-__Testing with Python/Javascript programming for dev.rdbhost.com __
+__Testing with Python/Javascript programming for dev.rdbhost.com__
 
 `2017 - present`
 __SIBCO Consultores__
-
 - Linux System Administration & Middleware Oracle Service Bus coaching for Telefonica
 
 
@@ -51,27 +50,27 @@ I did an XSS Finder for Mercadolibre and a remote console for rdbhost that you c
 __Linux__
 - Familiar with Ubuntu, Debian, and some Archlinux.
 
-Capable of:\		
-•	Manage permissions.\
-•	Check and manage system processes.\ 
-•	Use disk-checking and partitioning commands.\
-•	Create and maintain Linux Filesystems.\
-•	Mount and unmount filesystems.\
-•	Configure system boot and check or add kernel parameters.\
-•	Configure runlevels, targets, and services.\
-•	Identify an ISP based on an IP address.\
-•	Identify mail and DNS servers of a company.\
-•	Identfy valid email addresses of a domain.\
-•	Make TCP and UDP scans.\
-•	Identify operating systems.\
-•	Remotely recognize software versions.\
-•	Understand concepts of Buffer Overflow, Exploit, Shellcode and others.\
-•	Use most popular Linux tools.\
-•	Identify system vulnerabilities.\
-•	Use the exploiting tool Metasploit.\
-•	Create technical reports for Testing.\
-•	Manage flow of data using the Linux  console, and tools to filter and analyze text.\
-•	Create Python-based web-scrapers for gathering data, and export the desired filtered data to either a database or the file format of choice\ 
+Capable of:<br/>		
+•	Manage permissions.<br/>
+•	Check and manage system processes.<br/> 
+•	Use disk-checking and partitioning commands.<br/>
+•	Create and maintain Linux Filesystems.<br/>
+•	Mount and unmount filesystems.<br/>
+•	Configure system boot and check or add kernel parameters.<br/>
+•	Configure runlevels, targets, and services.<br/>
+•	Identify an ISP based on an IP address.<br/>
+•	Identify mail and DNS servers of a company.<br/>
+•	Identfy valid email addresses of a domain.<br/>
+•	Make TCP and UDP scans.<br/>
+•	Identify operating systems.<br/>
+•	Remotely recognize software versions.  
+•	Understand concepts of Buffer Overflow, Exploit, Shellcode and others. <br/>
+•	Use most popular Linux tools.<br/>
+•	Identify system vulnerabilities.<br/>
+•	Use the exploiting tool Metasploit.<br/>
+•	Create technical reports for Testing.<br/>
+•	Manage flow of data using the Linux  console, and tools to filter and analyze text.<br/>
+•	Create Python-based web-scrapers for gathering data, and export the desired filtered data to either a database or the file format of choice. <br/> 
 
 I am also able to configure and keep up-to-date Linux servers with a security-focus and successfully-identify hardware and software issues on computers with either Windows or Linux operating systems.\ 
 
