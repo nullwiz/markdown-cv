@@ -7,7 +7,7 @@ Programmer, Ethical Hacker, Technology enthusiast.
 
 <div id="webaddress">
 <a href="nullwiz@tutanota.com">nullwiz@tutanota.com</a>
-| <a href="http://nullsec.wordpress.com">My blog</a>
+| <a href="http://nullsecblog.wordpress.com">My blog</a>
 </div>
 
 
@@ -111,6 +111,8 @@ There are many, but I can name a few:
 BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, urllib...
 
 
-Currently in Argentina, Buenos Aires. 
+## Location 
+
+Currently in Argentina, Buenos Aires (GMT -3). 
 
 
