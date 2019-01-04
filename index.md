@@ -35,20 +35,20 @@ __SIBCO Consultores__
 
 
 ## Technologies, skills
-__Oracle Service Bus__ 
-Lots of experience in managing Middleware Oracle implementations 
-Messaging with JMS Queues. Optimization. Debugging most common errors in Java Middleware implementations. 
+__Oracle Service Bus__ <br/>
+Lots of experience in managing Middleware Oracle implementations.<br/> 
+Messaging with JMS Queues. Optimization. Debugging most common errors in Java Middleware implementations.<br/> 
 Familiar with the server-side logging and debugging.
 
 __Microsoft, Multi-platform__<br/>
-Access, Excel, PowerPoint, Word, TeamViewer, Vagrant, BMC Remedy, JIRA.
+Access, Excel, PowerPoint, Word, TeamViewer, Vagrant, BMC Remedy, JIRA.<br/>
 __Scripting__<br/>
-Python, Bash, Javascript, basic JAVA.
+Python, Bash, Javascript, basic JAVA.<br/>
 __Python Libraries__<br/>
 BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, urllib , and others.
-I did an XSS Finder for Mercadolibre and a remote console for rdbhost that you can check on my github.
+I did an XSS Finder for Mercadolibre and a remote console for rdbhost that you can check on my github.<br/>
 __Linux__<br/>
-- Familiar with Ubuntu, Debian, and some Archlinux.
+- Familiar with Ubuntu, Debian, and some Archlinux.<br/>
 
 Capable of:<br/>		
 •	Manage permissions.<br/>
