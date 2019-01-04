@@ -96,7 +96,7 @@ Since I was very young I did many of Capture the Flag (hacking) wargames. Curren
 __Bachiller Colegio Nacional Buenos Aires (CNBA – UBA)__<br/>
 `2012-2015`<br/>
 __Bachiller ENS en Lenguas Vivas "Sofía EB de Spangenberg", Buenos Aires.__<br/>
-`2015 - now`<br/>
+`2017 - now`<br/>
 __Student of Electronic Eng.  at  Universidad de Buenos Aires__<br/>
 
 
