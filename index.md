@@ -20,15 +20,14 @@ I am in charge of the servers every night from 8PM to 6AM, which means I am more
 
 
 
-### Laboral experience
+## Laboral experience
 
 `2015-2016`
 __Freelance programmer / Python scripting for automation__
 - Did many automations jobs using the Guru platform.
  
-`June 2016 - 2017`
+`2016 - 2017`
 __Testing with Python/Javascript programming for dev.rdbhost.com __
-
 
 `2017 - present`
 __SIBCO Consultores__
@@ -36,7 +35,7 @@ __SIBCO Consultores__
 - Linux System Administration & Middleware Oracle Service Bus coaching for Telefonica
 
 
-### Technologies, skills
+## Technologies, skills
 __Oracle Service Bus__ 
 Lots of experience in managing Middleware Oracle implementations 
 Messaging with JMS Queues. Optimization. Debugging most common errors in Java Middleware implementations. 
@@ -52,29 +51,29 @@ I did an XSS Finder for Mercadolibre and a remote console for rdbhost that you c
 __Linux__
 - Familiar with Ubuntu, Debian, and some Archlinux.
 
-Capable of:		
-•	Manage permissions.
-•	Check and manage system processes. 
-•	Use disk-checking and partitioning commands.
-•	Create and maintain Linux Filesystems.
-•	Mount and unmount filesystems.
-•	Configure system boot and check or add kernel parameters.
-•	Configure runlevels, targets, and services.
-•	Identify an ISP based on an IP address.
-•	Identify mail and DNS servers of a company.
-•	Identfy valid email addresses of a domain.
-•	Make TCP and UDP scans.
-•	Identify operating systems.
-•	Remotely recognize software versions.
-•	Understand concepts of Buffer Overflow, Exploit, Shellcode and others.
-•	Use most popular Linux tools.
-•	Identify system vulnerabilities.
-•	Use the exploiting tool Metasploit.
-•	Create technical reports for Testing .
-•	Manage flow of data using the Linux  console, and tools to filter and analyze text.
-•	Create Python-based web-scrapers for gathering data, and export the desired filtered data to either a database or the file format of choice 
+Capable of:\		
+•	Manage permissions.\
+•	Check and manage system processes.\ 
+•	Use disk-checking and partitioning commands.\
+•	Create and maintain Linux Filesystems.\
+•	Mount and unmount filesystems.\
+•	Configure system boot and check or add kernel parameters.\
+•	Configure runlevels, targets, and services.\
+•	Identify an ISP based on an IP address.\
+•	Identify mail and DNS servers of a company.\
+•	Identfy valid email addresses of a domain.\
+•	Make TCP and UDP scans.\
+•	Identify operating systems.\
+•	Remotely recognize software versions.\
+•	Understand concepts of Buffer Overflow, Exploit, Shellcode and others.\
+•	Use most popular Linux tools.\
+•	Identify system vulnerabilities.\
+•	Use the exploiting tool Metasploit.\
+•	Create technical reports for Testing.\
+•	Manage flow of data using the Linux  console, and tools to filter and analyze text.\
+•	Create Python-based web-scrapers for gathering data, and export the desired filtered data to either a database or the file format of choice\ 
 
-I am also able to configure and keep up-to-date Linux servers with a security-focus and successfully-identify hardware and software issues on computers with either Windows or Linux operating systems. 
+I am also able to configure and keep up-to-date Linux servers with a security-focus and successfully-identify hardware and software issues on computers with either Windows or Linux operating systems.\ 
 
 
 
