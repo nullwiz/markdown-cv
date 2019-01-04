@@ -22,7 +22,7 @@ I am in charge of the servers every night from 8PM to 6AM, which means I am more
 
 ## Laboral experience
 
-`2015-2016`
+``2015-2016``
 __Freelance programmer / Python scripting for automation__
 - Did many automations jobs using the Guru platform.
  
@@ -40,14 +40,14 @@ Lots of experience in managing Middleware Oracle implementations
 Messaging with JMS Queues. Optimization. Debugging most common errors in Java Middleware implementations. 
 Familiar with the server-side logging and debugging.
 
-__Microsoft, Multi-platform__
+__Microsoft, Multi-platform__<br/>
 Access, Excel, PowerPoint, Word, TeamViewer, Vagrant, BMC Remedy, JIRA.
-__Scripting__
+__Scripting__<br/>
 Python, Bash, Javascript, basic JAVA.
-__Python Libraries__
+__Python Libraries__<br/>
 BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, urllib , and others.
 I did an XSS Finder for Mercadolibre and a remote console for rdbhost that you can check on my github.
-__Linux__
+__Linux__<br/>
 - Familiar with Ubuntu, Debian, and some Archlinux.
 
 Capable of:<br/>		
@@ -72,17 +72,17 @@ Capable of:<br/>
 •	Manage flow of data using the Linux  console, and tools to filter and analyze text.<br/>
 •	Create Python-based web-scrapers for gathering data, and export the desired filtered data to either a database or the file format of choice. <br/> 
 
-I am also able to configure and keep up-to-date Linux servers with a security-focus and successfully-identify hardware and software issues on computers with either Windows or Linux operating systems.\ 
+I am also able to configure and keep up-to-date Linux servers with a security-focus and successfully-identify hardware and software issues on computers with either Windows or Linux operating systems.<br/> 
 
 
 
-### Research interests
+## Research interests
 For the sake of fun and learning, I am currently developing a Python program using Machine Learning and data-mining techniques that is able to recognize whether some text has a political stance.
 This script uses the bag-of words approach for language processing, using the Naive-Bayes classifier (https://en.wikipedia.org/wiki/Naive_Bayes_classifier). 
 The purpose is to learn Python libraries such as sklearn, pandas, matplotlib, and numpy
 
 
-__###Capture the flag__
+## Capture the flag
 
 Since I was very young I did many of Capture the Flag (hacking) wargames. Currently, I am playing __hackthebox.eu__ and __ringzero__. These include many explotation techniques; as well as coding challenges, cryptography, binary explotation on Windows and Linux. I am very interested in these kind of games, they also capture the essence of many of my skills. I have some writeups on my site, but I am adding more and more every other day. Thanks to these challenges I am able to have a broad understanding of the security focus on the IT industry. 
 
