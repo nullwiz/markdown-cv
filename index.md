@@ -111,8 +111,6 @@ There are many, but I can name a few:
 BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, urllib...
 
 
-- ### Footer
-
-Last updated: May 2018 -->
+Currently in Argentina, Buenos Aires. 
 
 
