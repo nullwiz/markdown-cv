@@ -14,9 +14,7 @@ Programmer, Ethical Hacker, Technology enthusiast.
 ## Currently
 
 On my current job, I work with a team of Java developers, sysadmins, and analysts in charge of one of the main Middleware implementations for Telefonica. Currently, I am part of SIBCO Consultants, working along with Practia. 
-
-I work very close with IBM and AMDOCS teams. 
-I am in charge of the servers every night from 8PM to 6AM, which means I am more than experienced in securing changes to the domains (our team also creates manuals for IBM to deploy and IBM consults us in case of any incident) and working fast in case there is any problem that disrupts the service at any given time. 
+ 
 
 
 
