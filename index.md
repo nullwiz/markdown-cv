@@ -109,7 +109,6 @@ __Spanish : Native__<br/>
 __French  : Medium, four years of study__<br/>
 
 ## Some libraries
-There are many, but I can name a few: 
 BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, pandas, sklearn, urllib...
 
 ## Command Line tools
