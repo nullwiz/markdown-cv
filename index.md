@@ -13,7 +13,8 @@ Programmer, Ethical Hacker, Technology enthusiast.
 
 ## Currently
 
-On my current job, I work with a team of Java developers, sysadmins, and analysts in charge of one of the main Middleware implementations for Telefonica. Currently, I am part of SIBCO Consultants, working along with Practia. 
+On my current job I am doing boring automation using Selenium Webdriver and C#. Having previously worked with automation in Python the task is easy, but I want to move to a more data-science and programming focused position that is able to research 
+and propose models. ML and Electronics is my main interest when I am off work or study.  
  
 
 
@@ -27,10 +28,13 @@ __Freelance programmer / Python scripting for automation__
 `2016 - 2017`
 __Testing with Python/Javascript programming for dev.rdbhost.com__
 
-`2017 - present`
+`2017 - 2019`
 __SIBCO Consultores__
 - Linux System Administration & Middleware Oracle Service Bus coaching for Telefonica
 
+`2019 - present`
+__SIBCO Consultores__
+- Automation Dev with Selenium at Practia
 
 ## Technologies, skills
 __Oracle Service Bus__ <br/>
@@ -77,7 +81,7 @@ I am also able to configure and keep up-to-date Linux servers with a security-fo
 ## Research interests
 For the sake of fun and learning, I am currently developing a Python program using Machine Learning and data-mining techniques that is able to recognize whether some text has a political stance.
 This script uses the bag-of words approach for language processing, using the Naive-Bayes classifier (https://en.wikipedia.org/wiki/Naive_Bayes_classifier). 
-The purpose is to learn Python libraries such as sklearn, pandas, matplotlib, and numpy
+The purpose is to further learn Python libraries such as sklearn, pandas, matplotlib, and numpy.
 
 
 ## Capture the flag
@@ -104,9 +108,13 @@ __English : Excellent both written and spoken.__<br/>
 __Spanish : Native__<br/>
 __French  : Medium, four years of study__<br/>
 
+## Some libraries
+There are many, but I can name a few: 
+BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, pandas, sklearn, urllib...
+
 ## Command Line tools
 There are many, but I can name a few: 
-BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, urllib...
+awk, sed, curl, uniq, sort, grep..
 
 
 ## Location 
