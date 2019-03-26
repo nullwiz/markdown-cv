@@ -13,7 +13,8 @@ Programmer, Ethical Hacker, Technology enthusiast.
 
 ## Currently
 
-On my current job I am doing boring automation using Selenium Webdriver and C#. Having previously worked with automation in Python the task is easy, but I want to move to a more data-science and programming focused position that is able to research 
+On my current job I am doing automation using Selenium Webdriver and C#, while constantly writing documentation for these automation test-cases. 
+Having previously worked with automation in Python the task is easy, but I want to move to a more data-science and programming focused position that is able to research 
 and propose models. ML and Electronics is my main interest when I am off work or study.  
  
 
@@ -109,7 +110,7 @@ __Spanish : Native__<br/>
 __French  : Medium, four years of study__<br/>
 
 ## Some libraries
-BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, pandas, sklearn, urllib...
+BeautifulSoup, cookielib, threading, logging, TinyDB, MongoDB, mechanize, pandas, sklearn, Tensorflow, urllib...
 
 ## Command Line tools
 There are many, but I can name a few: 
