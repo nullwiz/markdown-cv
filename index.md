@@ -34,8 +34,8 @@ __SIBCO Consultores__
 - Linux System Administration & Middleware Oracle Service Bus coaching for Telefonica
 
 `2019 - present`
-__SIBCO Consultores__
-- Automation Dev with Selenium at Practia
+__Practia__
+- Automation Dev with Selenium and C#
 
 ## Technologies, skills
 __Oracle Service Bus__ <br/>
