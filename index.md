@@ -31,11 +31,11 @@ __Testing with Python/Javascript programming for dev.rdbhost.com__
 
 `2017 - 2019`
 __SIBCO Consultores__
-- Linux System Administration & Middleware Oracle Service Bus coaching for Telefonica
+- Technical writing, Linux System Administration & Middleware Oracle Service Bus coaching for Telefonica
 
 `2019 - present`
 __Practia__
-- Automation Dev with Selenium and C#
+- Automation Dev with Selenium and C#, Documentation of test-cases.
 
 ## Technologies, skills
 __Oracle Service Bus__ <br/>
